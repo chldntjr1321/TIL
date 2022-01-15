@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko_KR.UTF-8"
-title                    : "front-End Dev 최우석"
+title                    : "Front-End Dev 최우석"
 title_separator          : "-"
-subtitle                 : "TIL(Today I Learned) 하루동안 배운내용 정리" # site tagline that appears below site title in masthead
+subtitle                 : "TIL(Today I Learned) 오늘하루 학습한 내용 정리" # site tagline that appears below site title in masthead
 name                     : "최우석"
 description              : "지식을 공유하며 함께 성장하는 개발자의 TIL"
-url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g.
+url                      : "https://chldntjr1321.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : kim-jin-seop/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : chldntjr1321/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/img/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/img/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" #, "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "kim-jin-seop" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "chldntjr1321" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Jin Seop"
+  name             : "Choi Woo Seok"
   avatar           : /assets/img/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "지식을 공유하며 함께 성장하는 개발자"
   location         : "South Korea"
-  email            : tjq2702@naver.com
+  email            : nick501@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: tjq2702@naver.com
-    - label: "Website"
+      url: nick501@naver.com
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://cnu-jinseop.tistory.com"
     - label: "Twitter"
@@ -124,35 +124,35 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/JinSeopDev"
+      # url: "https://facebook.com/JinSeopDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/kim-jin-seop
+      url: https://github.com/chldntjr1321
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dear_seop/"
+      url: "https://www.instagram.com/woo_seok0103/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/JinSeopDev/
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url:
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    #  url: https://www.facebook.com/JinSeopDev/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/kim-jin-seop
+      url: https://github.com/chldntjr1321
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #   url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dear_seop/"
+      url: "https://www.instagram.com/woo_seok0103/"
 
 
 # Reading Files
